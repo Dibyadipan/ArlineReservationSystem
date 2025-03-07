@@ -9,7 +9,9 @@ To build the project, run:
 
 clone the repo in your local machine
 
-gcc -Wall -g -Iinclude src/bookings.c src/flights.c src/payments.c src/utils.c src/main.c -o AirlineReservationSystem
+cd to the project folder
 
-Go to the folder and run the script.
+Run the AirlineReservationSystem.exe file from the terminal
+
+
 
